@@ -50,6 +50,7 @@ const App = () => {
 
   return (
     <main className={`${themeState.primary} ${themeState.background}`} ref={mainRef}>
+      {/* hckdvksvlkslkvjdsvlkdsjvl*/}
         <Navbar/>
         <Header/>
         <About/>
